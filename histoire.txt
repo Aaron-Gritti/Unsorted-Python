@@ -1,0 +1,6 @@
+﻿Choisir votre personnage : Conan, Lannister ou Oui-Oui
+Vous traversez une foret quand vous trouvez un coffre. Vous l'ouvrez (A), Vous le laissez (B), Vous le cachez (C)
+Vous continuez votre chemin. Vous rencontrez un mechant : Vous engagez la conversation (A), Vous le combattez (B), Vous fuyez (C)
+Un autre guerrier vient-il vous venger ? Oui, Non
+Vous traversez une foret quand vous voyez quelque chose dans les buissons. Vous regardez ce que c'est (A), Vous etes un peureux (B)
+Il s'agit d'un coffre. Vous l'ouvrez (A), Vous le laissez (B), Vous le cachez (C)
